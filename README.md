@@ -38,7 +38,8 @@ A desktop application built with Tkinter that allows users to track, review, rat
 ### Running the Application
 
 ```bash
-python main.py
+python Main.py
 ```
+or you can run main.exe in dist folder.
 
 **Author:** Arhama B
