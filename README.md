@@ -18,7 +18,7 @@ A desktop application built with Tkinter that allows users to track, review, rat
 
 ## Screenshots
 
-![App Screenshot](project0.png)
+![App Screenshot](project.png)
 
 ![App Screenshot](project1.png)
 
